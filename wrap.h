@@ -5,7 +5,7 @@
 #ifndef WRAP_H
 #define WRAP_H
 
-#include <linear.h>
+#include "linear.h"
 #include <stddef.h>
 
 typedef struct feature_node feature_node_t;

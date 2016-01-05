@@ -5,7 +5,7 @@
 package golinear
 
 /*
-#include <linear.h>
+#include "linear.h"
 #include <stdlib.h>
 #include "wrap.h"
 */

@@ -5,8 +5,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include <linear.h>
-
 #include "wrap.h"
 
 feature_node_t *nodes_new(size_t n)

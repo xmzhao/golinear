@@ -5,7 +5,7 @@
 package golinear
 
 /*
-#cgo LDFLAGS: -llinear -lblas -lstdc++ -lm
+#cgo linux LDFLAGS: -L/home/zhaoxuemin/go_proj/src/gitlab.xiaoduotech.com/xuemin/harvester/common -lliblinear
 #include <stddef.h>
 #include "wrap.h"
 */

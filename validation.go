@@ -6,7 +6,7 @@ package golinear
 
 /*
 #include <stdlib.h>
-#include <linear.h>
+#include "linear.h"
 #include "wrap.h"
 */
 import "C"
